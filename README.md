@@ -7,6 +7,7 @@ This section defines input parameters that can be configured when deploying the 
 
 **vpcCIDR**: Defines the CIDR block for the VPC.
 Subnet CIDR blocks for public and private subnets (PublicSubnet1CIDR, PublicSubnet2CIDR, PrivateSubnet1CIDR, PrivateSubnet2CIDR, PrivateSubnet3CIDR, PrivateSubnet4CIDR).
+
 **SSHLocation**: Specifies the allowed IP range for SSH access to instances within the VPC.
 
 **Resources**
